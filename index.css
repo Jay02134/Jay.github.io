@@ -1,0 +1,43 @@
+body {
+  font-family: copperplate;
+  background-color: #FFFFF5;
+}
+
+
+button {
+  display: block;
+  padding: 10px 20px;
+  background-color: ##FFFFF5;
+  color: black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #8f8d8d;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+p {
+  text-align: center;
+}
+
+#answers {
+  display: grid;
+  gap: 10px;
+}
+
+#question {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#quiz {
+  padding: 20px;
+  background-color: #FDF4E3;
+  border-radius: 5px;
+}
